@@ -1,9 +1,0 @@
-nohup: ignorando entrada
-Graph without selfloops
-Second verification:
-Graph without selfloops
-radius: 3000	All time: 2.6e+02s
-Graph without selfloops
-Second verification:
-Graph without selfloops
-radius: 3100	All time: 3.1e+02s

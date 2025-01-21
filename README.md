@@ -25,8 +25,7 @@ Os resultados obtidos do RMSE demonstram que métricas que independem dos menore
 ## Estrutura do Repositório
 
 - `data/`: Contém os dados brutos utilizados nas análises.
-- `scripts/`: Contém os scripts utilizados para a extração e análise dos dados.
-- `results/`: Contém os resultados das análises, incluindo gráficos e tabelas.
+- `src/`: Contém os códigos fonte utilizados para a extração e análise dos dados.
 - `figures/`: Contém as figuras geradas para a apresentação dos resultados.
 
 ## Ferramentas Utilizadas
@@ -39,8 +38,8 @@ Os resultados obtidos do RMSE demonstram que métricas que independem dos menore
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu_usuario/seu_repositorio.git
-    cd seu_repositorio
+    git clone git@github.com:brenddonandrade/EdgeEffect.git
+    cd EdgeEffect
     ```
 
 2. Instale as dependências:
@@ -50,7 +49,7 @@ Os resultados obtidos do RMSE demonstram que métricas que independem dos menore
 
 3. Execute os scripts de análise:
     ```bash
-    python scripts/analyze_networks.py
+    python run.py
     ```
 
 ## Autores

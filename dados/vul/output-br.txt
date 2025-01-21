@@ -1,7 +1,0 @@
-nohup: ignorando entrada
-radius: 2900	All time: 5.4e+04s
-radius: 3000	All time: 6.2e+04s
-Traceback (most recent call last):
-  File "/home/corspe/Documentos/brenddon/uff/periodo20241/ic/projetos/edge-effects/tasks/maio/30-05-24/data/vul/edge_effects_data_branch_2_v4.py", line 354, in <module>
-    nodes_df_br, list_dfs_com_br = save_data(CENTER_POINT_BR, SIZE_BR, INCREMENTS-1,MEASURES_TIME, RADIUS_SUBGRAPH, MAX_RADIUS, UF_BR)
-ValueError: too many values to unpack (expected 2)
